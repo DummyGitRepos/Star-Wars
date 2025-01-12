@@ -1,6 +1,6 @@
 # Star-Wars Repository
 
-This repository is part of the [DummyGitRepos](https://github.com/DummyGitRepos) organization. It includes:
+This repository is part of the [DummyGitRepos](https://github.com/orgs/DummyGitRepos/repositories) organization. It includes:
 - **Branches**: `main`, `jedi`, `sith`, `empire`
 - **Files**:
   - `jedi-order.md` (Jedi lore and teachings)
