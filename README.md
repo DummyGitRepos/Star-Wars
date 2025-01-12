@@ -24,4 +24,6 @@ This repository is part of the [DummyGitRepos](https://github.com/orgs/DummyGitR
    - `git cherry-pick`
 
 ---
+> “Do or do not. There is no try.” – Yoda
+
 **May the Git Force be with you!**
